@@ -6,3 +6,4 @@
 # print(c) 
 
 print("I do not know coding ")
+print("I love myself for my world")
